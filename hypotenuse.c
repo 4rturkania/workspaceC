@@ -7,7 +7,7 @@ double legA;
 double legB;
 
 printf("Enter length of leg A\n"); 
-scanf("%lf", &legA); 
+scanf("%lf", &legA);
 printf("Enter length of leg B\n"); 
 scanf("%lf", &legB); 
 
